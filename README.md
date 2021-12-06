@@ -1,2 +1,1 @@
-# home
-Injected microservice of KP-Platform to enable clones of facebook / home, twitter / mu, linkedin / chr / confidential hr
+home is an injected microservice of KP-Platform to enable each registered [ <b>user / persona / organizaion</b> ] having accesses to the clones of [ <b>facebook / aka home pages</b> ], [ <b>twitter / aka mu / or miss you</b> ], [ <b>linkedin / aka chr (<a href="https://www.chathamhouse.org/about-us/chatham-house-rule" target="_blank">Chatham-House-Rule</a>) / confidential hr (human resource)</b>
