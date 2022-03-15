@@ -1,13 +1,13 @@
 import React from 'react';
 
-function About() {
+function Home() {
   return (
-    <div className='about'>
+    <div className='home'>
       <p />
-      About Home (Facebook clone), Mu (Miss You / Twitter clone),
+      Home (Facebook clone), Mu (Miss You / Twitter clone),
       CHR (Chatham-House-Rule / Confidential HR / LinkedIn clone)
     </div>
   );
 }
 
-export default About;
+export default Home;
